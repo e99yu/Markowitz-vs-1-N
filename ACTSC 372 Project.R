@@ -1,9 +1,3 @@
-#######################
-# Name: Ewen Yu
-# Student ID: 20765939
-# ACTSC 372 COURSE PROJECT
-########################
-
 
 
 # DATA COLLECTION
